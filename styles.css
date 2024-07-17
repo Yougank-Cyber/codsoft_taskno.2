@@ -1,0 +1,45 @@
+ body {
+     font-family: Arial, sans-serif;
+     line-height: 1.6;
+     background-color: #030031;
+     padding: 20px;
+ }
+
+ .email-container {
+     max-width: 600px;
+     margin: 0 auto;
+     background-color: #ffc5e2;
+     padding: 20px;
+     border-radius: 8px;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+ }
+
+ .PS{
+    color: antiquewhite
+ }
+
+ .mail{
+    color: #6200ff;
+    cursor: pointer;
+ }
+
+ h1 {
+     color: #333333;
+     font-size: 24px;
+     margin-bottom: 10px;
+ }
+
+ p {
+     color: #666666;
+     font-size: 16px;
+     margin-bottom: 20px;
+ }
+
+ .cta-button {
+     display: inline-block;
+     background-color: #000000;
+     color: #ffffff;
+     text-decoration: none;
+     padding: 10px 20px;
+     border-radius: 4px;
+ }
